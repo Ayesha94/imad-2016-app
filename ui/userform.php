@@ -3,7 +3,7 @@
 		<head>
 			<link rel="stylesheet" type="text/css" href="stdtheme.css">
 			<link rel="stylesheet" href="jquery/css/base/jquery.ui.all.css">
-			<script src="jquery/js/jquery-1.10.2.min.js"></script>
+			<script src="<script src="https://code.jquery.com/jquery-1.10.2.js" integrity="sha256-it5nQKHTz+34HijZJQkpNBIHsjpV8b6QzMJs9tmOBSo=" crossorigin="anonymous"></script>"></script>
 			<script src="jquery/js/jquery-ui.js"></script>
 			<script>
 				$(document).ready(function()
